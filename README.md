@@ -1,2 +1,2 @@
 # ConflictoGit
-Hola Original
+Hola original.
